@@ -1,0 +1,42 @@
+.border {
+  border: 3px ridge aqua;
+  padding: 15px 15px;
+  width: 300px;
+  background-color: #e6f7ff;
+}
+img {
+  border: 1px solid aqua;
+  box-shadow: 5px 5px 10px 2px;
+  margin-bottom: 5px;
+}
+
+.Textbox {
+  border: 2px groove aqua;
+  padding: 10px 10px;
+  margin-top: 15px;
+  background-color: #e6f7ff;
+  box-shadow: 5px 5px 10px 2px;
+}
+#animalname {
+  border: 1px hidden;
+  margin-top: 1px;
+  font: bold 20pt "Impact", sans-serif;
+  padding: 1px;
+}
+#interestingfact {
+  font: italic 11pt "Arial", sans-serif;
+  border: 1px hidden;
+}
+ul {
+  list-style-type: none;
+  padding: 1px;
+  border: 1px hidden;
+  font: 11pt Arial, sans-serif;
+}
+#description {
+  border: 1px hidden;
+  font: 11pt Arial, sans-serif;
+}
+span {
+  font: bold 11pt "Arial", sans-serif;
+}
